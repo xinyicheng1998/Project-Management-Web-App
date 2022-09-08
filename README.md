@@ -18,15 +18,15 @@ Full Stack Web Development with React and Spring Boot.
 
 ### Login page
 
-![login](https://github.com/xinyicheng1998/todoapp/blob/master/preview/login%20page.png){:height="30%" width="30%"}
+![login](https://github.com/xinyicheng1998/todoapp/blob/master/preview/login%20page.png)
 
 ### Welcome page
 
-![welcome](https://github.com/xinyicheng1998/todoapp/blob/master/preview/welcome%20page.png){:height="30%" width="30%"}
+![welcome](https://github.com/xinyicheng1998/todoapp/blob/master/preview/welcome%20page.png)
 
 ### Todos page
 
-![todos](https://github.com/xinyicheng1998/todoapp/blob/master/preview/todos%20page.png){:height="30%" width="30%"}
+![todos](https://github.com/xinyicheng1998/todoapp/blob/master/preview/todos%20page.png)
 
 ## User information
 
